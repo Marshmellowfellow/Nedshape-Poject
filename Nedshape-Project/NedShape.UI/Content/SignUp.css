@@ -1,0 +1,201 @@
+﻿body {
+    background: rgba(34, 34, 34, 1) !important;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container-fluid {
+    background: #274e13 !important;
+    padding:0 !important;
+
+
+}
+.nav-bar{
+    display:none;
+}
+.member-check {
+    text-align: left;
+    display: inline-block;
+    margin-top: 7px;
+    margin-right: -2px;
+    margin-left: 14px;
+    font-size: 12px;
+    width: 78px;
+}
+.card-check {
+    text-align: left;
+    display: inline-block;
+    margin-top: 7px;
+    margin-right: -2px;
+    margin-left: 18px;
+    font-size: 12px;
+    width: 120px;
+}
+.form-style {
+    color: #ffffff;
+    background: rgba(10, 66, 55,0.7);
+    margin-top: 2%;
+    margin-right: 4%;
+    margin-bottom: 8%;
+    margin-left: 4%;
+    padding: 0 !important;
+    border-radius: 10px;
+}
+.login-button {
+    height: 80px !important;
+    color:white;
+}
+.upload-div{
+    margin-top:42px;
+}
+.gym-member {
+    padding-left: 0 !important;
+    padding-bottom: 14px;
+}
+.upload-label {
+    margin-top: 29px;
+    margin-left: 54px;
+    color: gray;
+    margin-bottom: 58px !important;
+}
+.top-bar {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background: rgba(0, 158, 15,0.2) !important;
+    margin-bottom: 16px !important;
+    height: 88px !important;
+    padding: 0 !important;
+}
+.middle-group-1 {
+    right: 29% !important;
+    top: 34% !important;
+}
+
+.middle-group-2 {
+    right: 20% !important;
+}
+
+.left-button {
+    margin-left: -4% !important;
+    margin-right: 2% !important;
+}
+.right-group {
+    top:38% !important;
+    right: 0% !important;
+}
+.left-group {
+    top: 38% !important;
+}
+#footernote {
+    background: #274e13;
+}
+.padding-none{
+    padding:0 !important;
+    margin:0 !important;
+}
+.input-box {
+    float: right;
+    display: inline-block;
+    width: 100% !important;
+    max-width: 340px;
+    background: white !important;
+    border-radius: 4px;
+    height: 28px;
+    color: #274e13;
+}
+.upload-box {
+    float: left;
+    display: inline-block;
+    width: 100% !important;
+    max-width: 340px;
+    background: white !important;
+    border-radius: 4px;
+    height: 28px;
+    color: #274e13;
+}
+@media only screen and (max-width: 1340px) {
+    .input-box {
+        max-width: 274px !important;
+    }
+}
+.label-text {
+    display: inline-block;
+    margin: 7px 0 0 0;
+}
+.option-check {
+    padding-top: 4px !important;
+    padding-right: 0px !important;
+    padding-bottom: 6px !important;
+    padding-left: 0px !important;
+}
+.terms-check {
+    display: inline-block !important;
+    margin-top: 0px !important;
+    margin-right: 0px !important;
+    margin-bottom: -2px !important;
+    margin-left: 0px !important;
+}
+.sign-up-check {
+    margin-top: 2.5px !important;
+    margin-left: 8px !important;
+}
+.id-input {
+    display: inline-block;
+    margin-top: 7px;
+    font-size: 12px;
+    float: right;
+    padding-right: 10px;
+}
+.sign-up-logo {
+    padding-bottom: 1.5%;
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+}
+.dropdown-style {
+    width: 19%;
+    max-width: 110px;
+    margin: 1.5px !important;
+}
+.payment-heading {
+    padding-top: 1.5% !important;
+    padding-bottom: 1% !important;
+    font-weight: 500;
+    font-size: 20px;
+}
+.sign-up-button {
+    padding-right: 2% !important;
+    text-align: right;
+}
+.modal-dialog{
+    margin-top:22% !important;
+}
+.modal-content {
+    background-color: rgb(10, 110, 55) !important;
+    text-align:center;
+}
+.modal-header {
+    border: none !important;
+}
+.modal-body {
+    border: none !important;
+}
+.modal-footer {
+    border: none !important;
+}
+.modal-close {
+    background-color: rgb(0, 158, 15) !important;
+}
+.sign-in .field-validation-error {
+    text-align:right !important;
+}
+.sign-in.sign-up {
+    background: rgba(34, 34, 34, 1) !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    padding-top: 0px !important;
+    margin-top: 0px !important;
+    margin-left: auto !important;
+    width: 80% !important;
+    max-width: 1400px !important;
+}
